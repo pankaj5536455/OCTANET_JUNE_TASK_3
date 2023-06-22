@@ -1,5 +1,5 @@
 # TASK_3
-#OCTANET_JUNE
+# OCTANET_JUNE
 # Amazon Clone Website
 
 This is a clone of the popular e-commerce website Amazon. It is a web application that replicates the core functionalities and design of Amazon. This README file provides information on how to set up and use the application.
